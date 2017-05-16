@@ -11,6 +11,6 @@ public class FrameActivity extends AppCompatActivity {
         setContentView(R.layout.activity_frame);
 
 
-//
+//EASY
     }
 }
