@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class FrameActivity extends AppCompatActivity {
 
-    boolean ex;
+
 ///////
     @Override
     protected void onCreate(Bundle savedInstanceState) {
